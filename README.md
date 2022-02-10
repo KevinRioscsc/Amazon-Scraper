@@ -2,7 +2,7 @@
 
 The Amazon Scraper API scrapes real-time data from Amazon to give us endpoints that give us search results, preoduct reviews, and product offers. Using the Scaper API my Amazon Scraper is the best way to recieve this information in a JSON Format
 
-##Technology Used
+## Technology Used
 
 This is my first API and I mainly used Node JS using Express JS to simplify requests and I used the Scraper API to get Information from Amazon
 
